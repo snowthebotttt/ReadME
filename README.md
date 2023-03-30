@@ -14,7 +14,7 @@
   
   ## Description
   
-  For challenge 9 I was tasked with creating a readme using inquirer
+  Challenge 9 required me to create a README file using Inquirer, a powerful Node.js module that prompts questions and records user input. The goal of this challenge was to help you familiarize yourself with Inquirer and practice creating a useful README file that provides essential information about a project.
   
   ## Installation 
   
